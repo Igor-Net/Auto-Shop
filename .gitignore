@@ -3,3 +3,12 @@
 ################################################################################
 
 /AutoShop/.vs/AutoShop/DesignTimeBuild/.dtbcache
+/AutoShop/.vs/AutoShop/v15/Server/sqlite3
+/AutoShop/.vs
+/AutoShop/AutoShop/.vs/AutoShop/v15
+/AutoShop/AutoShop/ClientApp/assets
+/AutoShop/AutoShop/node_modules
+/AutoShop/AutoShop/obj/Debug/netcoreapp2.0
+/AutoShop/AutoShop/Properties
+/AutoShop/AutoShop/wwwroot/lib
+/AutoShop/AutoShop/AutoShop.csproj.user

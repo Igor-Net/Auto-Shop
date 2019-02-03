@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 0,
+    "Category": "A-class Hatchback ",
+    "Price": 120000.99,
+    "Title": "A-klasse AMG I (W176)",
+    "Description": "45 AMG 2.0 AT (360 HP) 4WD",
+    "Year": 2015,
+    "AutoId": "A-220",
+    "Manufacturer": "Mercedes-Benz"
+  },
+  {
+    "Id": 1,
+    "Category": "SuperCar",
+    "Price": 200000.99,
+    "Title": "Murcielago LP640",
+    "Description": "LP640 6.5 V12 48V (640 Hp) Automatic",
+    "Year": 2010,
+    "AutoId": "m-640",
+    "Manufacturer": "Lamborghini"
+  },
+  {
+    "Id": 2,
+    "Category": "Combi",
+    "Price": 111189.99,
+    "Title": "RS 6 Avant (4F,C6)",
+    "Description": "5.0 TFSI V10 (580 Hp) quattro Tiptronic",
+    "Year": 2013,
+    "AutoId": "a-r6",
+    "Manufacturer": "Audi"
+  },
+  {
+    "Id": 3,
+    "Category": "Coupe",
+    "Price": 222829.99,
+    "Title": "M4 (F82)",
+    "Description": "3.0 (450 Hp) Competition Package DCT",
+    "Year": 2017,
+    "AutoId": "b-430",
+    "Manufacturer": "BMW"
+  },
+  {
+    "Id": 4,
+    "Category": "Coupe - Cabriolet",
+    "Price": 222289.99,
+    "Title": "California T",
+    "Description": "3.9 V8 (560 Hp)",
+    "Year": 2014,
+    "AutoId": "f-540",
+    "Manufacturer": "Ferrari"
+  },
+  {
+    "Id": 5,
+    "Category": "SUV",
+    "Price": 43534.99,
+    "Title": "E-Pace",
+    "Description": "3.0p (300 Hp) AWD Automatic",
+    "Year": 2018,
+    "AutoId": "p-360",
+    "Manufacturer": "Jaguar"
+  },
+  {
+    "Id": 6,
+    "Category": "Sedan",
+    "Price": 81119.99,
+    "Title": "IS III (XE30)",
+    "Description": "350 V6 (311 Hp) Direct Shift",
+    "Year": 2013,
+    "AutoId": "ls-300",
+    "Manufacturer": "Lexus"
+  },
+  {
+    "Id": 7,
+    "Category": "Sedan",
+    "Price": 84119.99,
+    "Title": "S90 (2016)",
+    "Description": "2.0 T8 (407 Hp) AWD Automatic Hybrid",
+    "Year": 2016,
+    "AutoId": "v-407",
+    "Manufacturer": "Volvo"
+  },
+  {
+    "Id": 8,
+    "Category": "Coupe",
+    "Price": 111111.99,
+    "Title": "Chiron Sport",
+    "Description": "8.0 W16 (1500 Hp) AWD DSG",
+    "Year": 2018,
+    "AutoId": "b-8",
+    "Manufacturer": "Bugati"
+  }
+]
